@@ -21,32 +21,46 @@ module.exports = () => {
 
         steamer: [
             {
-                name: 'steamerjs',
-                github: 'https://github.com/steamerjs/steamerjs',
+                name: '张三',
+                pass: '1234567',
+                tel: '13108xxx',
+                addrs: '重庆'
             },
             {
-                name: 'steamer-plugin-kit',
-                github: 'https://github.com/steamerjs/steamer-plugin-kit'
+                name: '李四',
+                pass: '123432567',
+                tel: '131028xxx',
+                addrs: '山海'
             },
             {
-                name: 'steamer-react',
-                github: 'https://github.com/steamerjs/steamer-react/'
+                name: '王五',
+                pass: '123224567',
+                tel: '13108xxx',
+                addrs: '天津'
             },
             {
-                name: 'steamer-vue',
-                github: 'https://github.com/steamerjs/steamer-vue/'
+                name: '赵六',
+                pass: '1234567',
+                tel: '13108xxx',
+                addrs: '北京'
             },
             {
-                name: 'steamer-simple',
-                github: 'https://github.com/steamerjs/steamer-simple/'
+                name: '小明',
+                pass: '1234567',
+                tel: '13108xxx',
+                addrs: '东湾'
             },
             {
-                name: 'steamer-react-component',
-                github: 'https://github.com/steamerjs/steamer-react-component/'
+                name: '小i红',
+                pass: '1234567',
+                tel: '13108xxx',
+                addrs: '王者峡谷'
             },
             {
-                name: 'steamer-plugin-mock',
-                github: 'https://github.com/steamerjs/steamer-plugin-mock/'
+                name: '天天',
+                pass: '1234567',
+                tel: '13108xxx',
+                addrs: 'dddd'
             }
         ],
         colors: []
